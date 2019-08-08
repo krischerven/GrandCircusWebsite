@@ -1,0 +1,14 @@
+/* comes below, therefore overrides the above style. */
+ @font-face {
+  font-family: FiraCode;
+  src: url(../fonts/FiraCode-Regular.otf);
+}
+
+* {
+	color: #8B9DC3;
+	font-family: FiraCode;
+}
+
+h1 {
+	text-align: center;
+}
